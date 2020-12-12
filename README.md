@@ -11,7 +11,7 @@ Based on python and batch processing development
 
 
 
-The Program in Chinese
+The program interface is in Chinese
 
 
 
