@@ -17,7 +17,7 @@ The program interface is in Chinese
 
 
 
-The English version will be written after the end of version 1.0
+The English version will be written after the end of version 1.*
 
 
 
